@@ -19,7 +19,7 @@ This project explores changes in the representation of women in U.S. military br
 
 ## 📌 Dashboard
 
-> 📍 **Live Power BI Report**: [View the dashboard](YOUR_PUBLISH_TO_WEB_LINK_HERE)
+> 📍 ** Power BI Report**: 
 
 ![Dashboard Screenshot](visuals/dashboard_screenshot.png)
 
