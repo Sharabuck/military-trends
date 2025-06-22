@@ -21,7 +21,7 @@ This project explores changes in the representation of women in U.S. military br
 
 > 📍 ** Power BI Report**: 
 
-![Dashboard Screenshot](visuals/dashboard_screenshot.png)
+![Dashboard Screenshot](visuals/dashboard_screenshot.jpg)
 
 ## 📂 Files
 
