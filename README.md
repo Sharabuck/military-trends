@@ -21,10 +21,10 @@ This project explores changes in the representation of women in U.S. military br
 ![Dashboard Screenshot](MilitaryTrends/visuals/dashboard_screenshot.jpg)
 > ## Download Project Files
 
--  [Download Power BI Report (.pbix)](https://github.com/Sharabuck/military-trends/raw/master/Military%20Females%201970-2008.pbix)
--  [Download Summary PDF](https://github.com/Sharabuck/military-trends/raw/master/Military_Females_1970-2008.pdf)
+-  [Download Power BI Report (.pbix)](https://github.com/Sharabuck/military-trends/raw/master/MilitaryTrends/Military%20Females%201970-2008.pbix)
+-  [Download Summary PDF](https://github.com/Sharabuck/military-trends/raw/master/MilitaryTrends/Military_Females_1970-2008.pdf)
 
-> 💡 **To view the interactive dashboard:**  
+>  **To view the interactive dashboard:**  
 > You must download the `.pbix` file above and open it using **Power BI Desktop** (free).  
 > Interactive sharing via web is only available to users with a Power BI Pro or Fabric (business) account.
 
