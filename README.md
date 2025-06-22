@@ -18,8 +18,7 @@ This project explores changes in the representation of women in U.S. military br
 5. **Embedded Static Infographic** to contextualize historical milestones
 
 ##  Dashboard
-[Dashboard Screenshot](visuals/dashboard_screenshot.jpg)
-
+![Dashboard Screenshot](MilitaryTrends/visuals/dashboard_screenshot.jpg)
 > ## Download Project Files
 
 -  [Download Power BI Report (.pbix)](https://github.com/Sharabuck/military-trends/raw/master/Military%20Females%201970-2008.pbix)
