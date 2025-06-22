@@ -20,9 +20,7 @@ This project explores changes in the representation of women in U.S. military br
 ##  Dashboard
 
 >  ** Power BI Report**: 
-
-![Dashboard Screenshot](visuals/dashboard_screenshot.jpg)
-
+PDF and jpg are in the files
 ##  Files
 
 - `military_trends_v1.pbix` – Full Power BI file (data + visuals)
